@@ -1,0 +1,1 @@
+validTime = lambda t: t[:2] < '24' and t[3] < '6'

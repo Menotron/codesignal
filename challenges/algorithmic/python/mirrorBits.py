@@ -1,0 +1,1 @@
+mirrorBits = lambda a: int(bin(a)[:1:-1], 2)

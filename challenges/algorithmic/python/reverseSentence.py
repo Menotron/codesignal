@@ -1,0 +1,1 @@
+reverseSentence = lambda s: ' '.join(s.split()[::-1])

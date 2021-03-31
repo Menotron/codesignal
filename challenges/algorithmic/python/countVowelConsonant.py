@@ -1,0 +1,1 @@
+return sum([x in 'aeiou' or 2 for x in eval(dir()[0])[0]])
